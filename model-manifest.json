@@ -1,0 +1,20 @@
+{
+  "fileName": "Index-Translate-9B.IQ2_S-slim-lower2-compact.gguf",
+  "bytes": 3080171360,
+  "sha256": "3aa6dc5f98dabc1b831ce40b3f62b982e3c71d643ca32c9405fc0af738f31ea2",
+  "parts": [
+    {
+      "name": "Index-Translate-9B.IQ2_S-slim-lower2-compact.gguf.part1",
+      "bytes": 1600000000,
+      "sha256": "c40d402a4dde9d8951b949aaee6e8501d30bcb019e0de735d07e3e669bbda9bb"
+    },
+    {
+      "name": "Index-Translate-9B.IQ2_S-slim-lower2-compact.gguf.part2",
+      "bytes": 1480171360,
+      "sha256": "d990c7ffefcfb8622c25a0bc96860798a95f24254aca00ede2342014f2b1270d"
+    }
+  ],
+  "license": "Apache-2.0",
+  "source": "https://huggingface.co/IndexTeam/Index-Translate-9B",
+  "scope": "Only weights, license, manifest and model card; no app source or user data."
+}
