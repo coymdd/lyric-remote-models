@@ -1,0 +1,6 @@
+Index-Translate 9B slim quantization
+Derived from IndexTeam/Index-Translate-9B (upstream model card declares Apache-2.0).
+Original model and authors: https://huggingface.co/IndexTeam/Index-Translate-9B
+Pinned GGUF/F16 source: IndexTeam/Index-Translate-9B-GGUF at 645939fbab839a656f1bc39975a872bc8ad749f8.
+Modification: importance-aware quantization and two IQ2_S embedding/output tensors.
+All 442 tensor names/shapes retained. This is an unofficial derivative, not an IndexTeam release.
